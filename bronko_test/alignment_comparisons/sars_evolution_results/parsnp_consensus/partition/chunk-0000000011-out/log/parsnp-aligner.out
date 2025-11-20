@@ -1,0 +1,20 @@
+0
+ancestral_sequence.fa.ref,Len:29903,GC:37.9962
+1067-6768-0.116656.fasta,Len:29903,GC:37.9962
+1373-6524-0.105837.fasta,Len:29903,GC:38.0029
+        Finished processing input sequences, elapsed time: 0 seconds
+
+                 compressed suffix graph construction elapsed time: 0 seconds
+
+                 MUM anchor search elapsed time: 0 seconds
+
+        Finished recursive MUM search, elapsed time: 0 seconds
+
+        Finished filtering spurious matches, elapsed time: 0 seconds
+
+        LCBs created, elapsed time: 0 seconds
+
+        Output files updated, elapsed time: 0 seconds
+
+        See log file for further details. Total processing time: 0 seconds 
+

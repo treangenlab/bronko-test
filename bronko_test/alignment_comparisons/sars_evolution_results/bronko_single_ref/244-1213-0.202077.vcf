@@ -1,0 +1,15 @@
+##fileformat=VCFv4.5
+##source=bronko-v0.0.3
+##reference=file://../favites_simulation/wuhan_covid_sim/generated_reads/244-1213-0.202077.fastq
+##contig=<ID=Ancestral,length=29903>
+##INFO=<ID=DP,Number=1,Type=Integer,Description="Total Depth">
+##INFO=<ID=AF,Number=1,Type=Float,Description="Allele Frequency">
+##INFO=<ID=DP4,Number=4,Type=Integer,Description="Fwd_ref,Rev_ref,Fwd_alt,Rev_alt">
+##INFO=<ID=SOR,Number=4,Type=Float,Description="SOR">
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO
+Ancestral	2035	.	C	T	.	PASS	DP=23828;AF=0.994;DP4=22,28,11899,11791;SOR=0.499
+Ancestral	3418	.	T	C	.	PASS	DP=23902;AF=0.994;DP4=24,31,11824,11926;SOR=0.483
+Ancestral	10624	.	C	T	.	PASS	DP=23899;AF=0.995;DP4=27,19,11811,11972;SOR=0.430
+Ancestral	10671	.	T	C	.	PASS	DP=23959;AF=0.995;DP4=25,24,11881,11959;SOR=0.662
+Ancestral	24476	.	A	G	.	PASS	DP=24080;AF=0.994;DP4=25,31,12016,11917;SOR=0.517
+Ancestral	28171	.	T	C	.	PASS	DP=23717;AF=0.994;DP4=23,31,11791,11788;SOR=0.447

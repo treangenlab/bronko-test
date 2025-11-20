@@ -1,0 +1,17 @@
+##fileformat=VCFv4.5
+##source=bronko-v0.0.3
+##reference=file:///home/project_data/persistent_cov_uk/cleaned_reads/ERR7371100_1.fastq
+##contig=<ID=MZ470855.1,length=29776>
+##INFO=<ID=DP,Number=1,Type=Integer,Description="Total Depth">
+##INFO=<ID=AF,Number=1,Type=Float,Description="Allele Frequency">
+##INFO=<ID=DP4,Number=4,Type=Integer,Description="Fwd_ref,Rev_ref,Fwd_alt,Rev_alt">
+##INFO=<ID=SOR,Number=4,Type=Float,Description="SOR">
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO
+MZ470855.1	7797	.	C	T	.	PASS	DP=96;AF=1.000;DP4=0,0,39,57;SOR=1.132
+MZ470855.1	10572	.	T	C	.	PASS	DP=108;AF=1.000;DP4=0,0,23,85;SOR=2.628
+MZ470855.1	10735	.	C	T	.	PASS	DP=36;AF=1.000;DP4=0,0,25,11;SOR=1.739
+MZ470855.1	14360	.	G	T	.	PASS	DP=52;AF=1.000;DP4=0,0,23,29;SOR=0.941
+MZ470855.1	15874	.	C	T	.	PASS	DP=255;AF=1.000;DP4=0,0,195,60;SOR=2.427
+MZ470855.1	24363	.	A	T	.	PASS	DP=209;AF=1.000;DP4=0,0,54,155;SOR=2.202
+MZ470855.1	25654	.	T	C	.	PASS	DP=58;AF=1.000;DP4=0,0,44,14;SOR=2.303
+MZ470855.1	26703	.	G	T	.	PASS	DP=153;AF=1.000;DP4=0,0,41,112;SOR=2.109

@@ -1,0 +1,55 @@
+0
+ancestral_sequence.fa.ref,Len:9200,GC:42.1087
+18-18-0.156890.fasta,Len:9200,GC:42.0543
+44-38-0.325374.fasta,Len:9200,GC:42.163
+30-46-0.092426.fasta,Len:9200,GC:42.0761
+24-68-0.272818.fasta,Len:9200,GC:42.0326
+48-93-0.236361.fasta,Len:9200,GC:42.163
+56-42-0.323257.fasta,Len:9200,GC:42.1522
+58-69-0.368930.fasta,Len:9200,GC:42.1522
+16-6-0.396032.fasta,Len:9200,GC:42.0435
+52-98-0.006603.fasta,Len:9200,GC:42.163
+60-81-0.279477.fasta,Len:9200,GC:42.1522
+68-60-0.452212.fasta,Len:9200,GC:42.1848
+64-40-0.015648.fasta,Len:9200,GC:42.163
+66-44-0.066319.fasta,Len:9200,GC:42.163
+26-11-0.161928.fasta,Len:9200,GC:42.0217
+28-52-0.191228.fasta,Len:9200,GC:42.0761
+42-37-0.338952.fasta,Len:9200,GC:42.1522
+6-45-0.495324.fasta,Len:9200,GC:42.1196
+38-7-0.430798.fasta,Len:9200,GC:42.1739
+8-79-0.464173.fasta,Len:9200,GC:42.1087
+2-53-0.380368.fasta,Len:9200,GC:42.1196
+54-27-0.410672.fasta,Len:9200,GC:42.163
+0-2-0.189533.fasta,Len:9200,GC:42.1196
+72-77-0.425471.fasta,Len:9200,GC:42.0652
+32-62-0.077237.fasta,Len:9200,GC:42.087
+40-51-0.040598.fasta,Len:9200,GC:42.1304
+12-34-0.325192.fasta,Len:9200,GC:42.087
+70-84-0.030962.fasta,Len:9200,GC:42.0652
+62-70-0.407166.fasta,Len:9200,GC:42.163
+46-54-0.035823.fasta,Len:9200,GC:42.1522
+14-48-0.410520.fasta,Len:9200,GC:42.1522
+50-64-0.389780.fasta,Len:9200,GC:42.087
+22-91-0.348475.fasta,Len:9200,GC:42.0761
+34-92-0.190368.fasta,Len:9200,GC:42.0978
+36-74-0.276772.fasta,Len:9200,GC:42.087
+4-63-0.277289.fasta,Len:9200,GC:42.1848
+10-15-0.185358.fasta,Len:9200,GC:42.0978
+20-31-0.225142.fasta,Len:9200,GC:42.0326
+        Finished processing input sequences, elapsed time: 0 seconds
+
+                 compressed suffix graph construction elapsed time: 0 seconds
+
+                 MUM anchor search elapsed time: 0 seconds
+
+        Finished recursive MUM search, elapsed time: 0 seconds
+
+        Finished filtering spurious matches, elapsed time: 0 seconds
+
+        LCBs created, elapsed time: 0 seconds
+
+        Output files updated, elapsed time: 0 seconds
+
+        See log file for further details. Total processing time: 0 seconds 
+

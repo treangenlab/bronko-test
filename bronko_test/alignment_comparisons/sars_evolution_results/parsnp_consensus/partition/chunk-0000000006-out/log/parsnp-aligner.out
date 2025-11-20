@@ -1,0 +1,68 @@
+0
+ancestral_sequence.fa.ref,Len:29903,GC:37.9962
+828-1533-0.117079.fasta,Len:29903,GC:38.0062
+232-497-0.189854.fasta,Len:29903,GC:38.0029
+1194-6092-0.110096.fasta,Len:29903,GC:38.0029
+630-6233-0.135832.fasta,Len:29903,GC:37.9995
+1344-95-0.127878.fasta,Len:29903,GC:38.0062
+676-6634-0.138976.fasta,Len:29903,GC:38.0029
+789-7810-0.125102.fasta,Len:29903,GC:37.9962
+1395-5727-0.134538.fasta,Len:29903,GC:37.9995
+205-4955-0.161523.fasta,Len:29903,GC:37.9995
+296-5192-0.166399.fasta,Len:29903,GC:37.9962
+1569-1709-0.088260.fasta,Len:29903,GC:38.0062
+659-7827-0.129215.fasta,Len:29903,GC:38.0062
+1094-1608-0.109349.fasta,Len:29903,GC:37.9995
+307-1619-0.158478.fasta,Len:29903,GC:38.0062
+949-4352-0.117339.fasta,Len:29903,GC:38.0029
+733-3924-0.128434.fasta,Len:29903,GC:38.0029
+1003-1279-0.116832.fasta,Len:29903,GC:38.0062
+66-4381-0.208403.fasta,Len:29903,GC:38.0029
+554-2356-0.145751.fasta,Len:29903,GC:38.0062
+661-8861-0.136214.fasta,Len:29903,GC:38.0029
+508-3765-0.155645.fasta,Len:29903,GC:38.0029
+258-266-0.154249.fasta,Len:29903,GC:38.0029
+1025-4339-0.125081.fasta,Len:29903,GC:37.9995
+1583-2203-0.093116.fasta,Len:29903,GC:38.0029
+542-1180-0.138881.fasta,Len:29903,GC:38.0029
+1380-3674-0.112141.fasta,Len:29903,GC:38.0029
+68-1671-0.212316.fasta,Len:29903,GC:37.9928
+1178-8796-0.110522.fasta,Len:29903,GC:37.9995
+1857-111-0.094438.fasta,Len:29903,GC:37.9995
+2065-4633-0.068197.fasta,Len:29903,GC:38.0062
+183-4105-0.174581.fasta,Len:29903,GC:37.9995
+638-2612-0.143059.fasta,Len:29903,GC:37.9928
+587-9174-0.144834.fasta,Len:29903,GC:38.0029
+903-4365-0.125545.fasta,Len:29903,GC:37.9995
+1308-7106-0.102226.fasta,Len:29903,GC:38.0129
+427-5889-0.140839.fasta,Len:29903,GC:38.0096
+634-2216-0.143387.fasta,Len:29903,GC:38.0062
+532-6438-0.129312.fasta,Len:29903,GC:38.0096
+281-125-0.156444.fasta,Len:29903,GC:37.9995
+517-6048-0.139684.fasta,Len:29903,GC:38.0029
+617-723-0.129367.fasta,Len:29903,GC:38.0029
+1240-2660-0.104449.fasta,Len:29903,GC:38.0029
+990-622-0.111062.fasta,Len:29903,GC:38.0062
+1921-2343-0.072007.fasta,Len:29903,GC:38.0029
+357-4497-0.149777.fasta,Len:29903,GC:38.0029
+1187-1443-0.140515.fasta,Len:29903,GC:37.9995
+1184-5982-0.101862.fasta,Len:29903,GC:38.0029
+21-1241-0.235038.fasta,Len:29903,GC:38.0029
+821-1798-0.120401.fasta,Len:29903,GC:38.0029
+197-3738-0.162092.fasta,Len:29903,GC:37.9995
+        Finished processing input sequences, elapsed time: 0 seconds
+
+                 compressed suffix graph construction elapsed time: 0 seconds
+
+                 MUM anchor search elapsed time: 0 seconds
+
+        Finished recursive MUM search, elapsed time: 0 seconds
+
+        Finished filtering spurious matches, elapsed time: 0 seconds
+
+        LCBs created, elapsed time: 0 seconds
+
+        Output files updated, elapsed time: 1 seconds
+
+        See log file for further details. Total processing time: 1 seconds 
+

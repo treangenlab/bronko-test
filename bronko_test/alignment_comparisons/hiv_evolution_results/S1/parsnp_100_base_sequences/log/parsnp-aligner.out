@@ -1,0 +1,59 @@
+0
+ancestral_sequence.fa.ref,Len:9200,GC:42.1087
+24-10-0.056004.fasta,Len:9200,GC:41.9783
+14-53-0.427146.fasta,Len:9200,GC:42.1087
+26-82-0.187728.fasta,Len:9200,GC:42.0109
+74-98-0.056818.fasta,Len:9200,GC:42.0978
+54-16-0.210629.fasta,Len:9200,GC:42.1522
+52-37-0.259740.fasta,Len:9200,GC:42.25
+62-88-0.463081.fasta,Len:9200,GC:42.2174
+28-5-0.191505.fasta,Len:9200,GC:42.1413
+16-90-0.499308.fasta,Len:9200,GC:41.8913
+66-33-0.355178.fasta,Len:9200,GC:42.0652
+46-4-0.031722.fasta,Len:9200,GC:41.8804
+6-11-0.092686.fasta,Len:9200,GC:42.0761
+50-70-0.309395.fasta,Len:9200,GC:41.8152
+40-57-0.343879.fasta,Len:9200,GC:42.0435
+30-62-0.206087.fasta,Len:9200,GC:42.1304
+70-28-0.297632.fasta,Len:9200,GC:42.1413
+72-67-0.016729.fasta,Len:9200,GC:42.0761
+56-61-0.198293.fasta,Len:9200,GC:42.1739
+32-77-0.273127.fasta,Len:9200,GC:41.9674
+48-79-0.278710.fasta,Len:9200,GC:41.913
+44-89-0.015900.fasta,Len:9200,GC:41.8913
+64-65-0.413309.fasta,Len:9200,GC:42.1739
+76-55-0.131487.fasta,Len:9200,GC:42.1957
+60-78-0.305355.fasta,Len:9200,GC:42.2283
+42-7-0.015329.fasta,Len:9200,GC:41.9674
+38-12-0.232429.fasta,Len:9200,GC:42.0326
+8-99-0.089017.fasta,Len:9200,GC:41.8913
+68-66-0.019926.fasta,Len:9200,GC:42
+12-9-0.345404.fasta,Len:9200,GC:42.1196
+0-23-0.098532.fasta,Len:9200,GC:42.1848
+78-1-0.289326.fasta,Len:9200,GC:42.163
+58-54-0.413551.fasta,Len:9200,GC:42.1739
+18-30-0.060340.fasta,Len:9200,GC:41.9457
+2-52-0.362219.fasta,Len:9200,GC:42.1304
+22-48-0.304350.fasta,Len:9200,GC:41.9891
+34-73-0.334718.fasta,Len:9200,GC:42
+36-97-0.371712.fasta,Len:9200,GC:42
+4-25-0.459532.fasta,Len:9200,GC:42.0978
+10-83-0.076895.fasta,Len:9200,GC:41.8913
+20-0-0.306216.fasta,Len:9200,GC:41.9239
+80-3-0.454627.fasta,Len:9200,GC:42.1196
+        Finished processing input sequences, elapsed time: 0 seconds
+
+                 compressed suffix graph construction elapsed time: 0 seconds
+
+                 MUM anchor search elapsed time: 0 seconds
+
+        Finished recursive MUM search, elapsed time: 0 seconds
+
+        Finished filtering spurious matches, elapsed time: 0 seconds
+
+        LCBs created, elapsed time: 0 seconds
+
+        Output files updated, elapsed time: 3 seconds
+
+        See log file for further details. Total processing time: 3 seconds 
+

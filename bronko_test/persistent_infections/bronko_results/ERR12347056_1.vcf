@@ -1,0 +1,19 @@
+##fileformat=VCFv4.5
+##source=bronko-v0.0.3
+##reference=file:///home/project_data/persistent_cov_uk/cleaned_reads/ERR12347056_1.fastq
+##contig=<ID=PX432547.1,length=29732>
+##INFO=<ID=DP,Number=1,Type=Integer,Description="Total Depth">
+##INFO=<ID=AF,Number=1,Type=Float,Description="Allele Frequency">
+##INFO=<ID=DP4,Number=4,Type=Integer,Description="Fwd_ref,Rev_ref,Fwd_alt,Rev_alt">
+##INFO=<ID=SOR,Number=4,Type=Float,Description="SOR">
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO
+PX432547.1	939	.	T	G	.	PASS	DP=25;AF=0.720;DP4=0,7,9,9;SOR=0.016
+PX432547.1	6430	.	T	G	.	PASS	DP=164;AF=1.000;DP4=0,0,82,82;SOR=0.693
+PX432547.1	11953	.	C	T	.	PASS	DP=6;AF=1.000;DP4=0,0,6,0;SOR=3.912
+PX432547.1	12827	.	G	T	.	PASS	DP=664;AF=0.011;DP4=654,3,7,0;SOR=12.000
+PX432547.1	18063	.	A	G	.	PASS	DP=3;AF=1.000;DP4=0,0,0,3;SOR=2.833
+PX432547.1	18813	.	G	T	.	PASS	DP=472;AF=0.015;DP4=457,8,7,0;SOR=12.000
+PX432547.1	21832	.	C	T	.	PASS	DP=526;AF=0.034;DP4=496,12,18,0;SOR=12.000
+PX432547.1	24573	.	C	A	.	PASS	DP=5;AF=1.000;DP4=0,0,0,5;SOR=3.611
+PX432547.1	25342	.	C	G	.	PASS	DP=1578;AF=0.013;DP4=1429,129,10,10;SOR=12.000
+PX432547.1	28361	.	T	G	.	PASS	DP=2030;AF=0.106;DP4=0,1815,0,215;SOR=12.000

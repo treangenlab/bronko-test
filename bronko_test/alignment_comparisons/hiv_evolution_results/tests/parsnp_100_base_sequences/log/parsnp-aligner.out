@@ -1,0 +1,64 @@
+0
+ancestral_sequence.fa.ref,Len:9200,GC:42.1087
+40-7-0.154131.fasta,Len:9200,GC:42.0109
+46-31-0.136674.fasta,Len:9200,GC:42.0109
+6-66-0.483437.fasta,Len:9200,GC:42.1413
+26-76-0.125503.fasta,Len:9200,GC:41.9457
+50-19-0.416449.fasta,Len:9200,GC:42.0435
+24-20-0.334185.fasta,Len:9200,GC:42.2609
+60-62-0.033388.fasta,Len:9200,GC:42.0652
+68-46-0.245986.fasta,Len:9200,GC:41.9565
+30-98-0.123892.fasta,Len:9200,GC:42.0543
+14-43-0.233143.fasta,Len:9200,GC:42.1087
+76-87-0.246266.fasta,Len:9200,GC:41.9783
+16-48-0.065077.fasta,Len:9200,GC:42.1196
+82-13-0.013091.fasta,Len:9200,GC:41.9565
+54-88-0.188070.fasta,Len:9200,GC:42.0326
+28-70-0.453723.fasta,Len:9200,GC:42.0217
+66-71-0.204933.fasta,Len:9200,GC:42.0217
+72-38-0.098596.fasta,Len:9200,GC:42.0761
+8-92-0.396861.fasta,Len:9200,GC:42.087
+90-45-0.293205.fasta,Len:9200,GC:41.9565
+62-67-0.273325.fasta,Len:9200,GC:42.0978
+64-18-0.060140.fasta,Len:9200,GC:42.1304
+56-2-0.352606.fasta,Len:9200,GC:42.0761
+52-93-0.370953.fasta,Len:9200,GC:42.0435
+44-51-0.108838.fasta,Len:9200,GC:42.087
+48-65-0.056533.fasta,Len:9200,GC:42.0326
+78-99-0.110502.fasta,Len:9200,GC:42.0978
+84-10-0.021697.fasta,Len:9200,GC:41.9239
+0-86-0.375909.fasta,Len:9200,GC:42.2717
+42-44-0.303961.fasta,Len:9200,GC:42.0652
+38-4-0.334806.fasta,Len:9200,GC:42.0217
+88-14-0.458743.fasta,Len:9200,GC:41.9457
+32-11-0.372327.fasta,Len:9200,GC:42.0543
+74-60-0.426299.fasta,Len:9200,GC:42.163
+86-90-0.188233.fasta,Len:9200,GC:41.9783
+12-37-0.421358.fasta,Len:9200,GC:42.1087
+58-39-0.375747.fasta,Len:9200,GC:42.0652
+18-23-0.250434.fasta,Len:9200,GC:42.0978
+70-54-0.051867.fasta,Len:9200,GC:42.0652
+2-42-0.152978.fasta,Len:9200,GC:42.1739
+22-6-0.128883.fasta,Len:9200,GC:42.3261
+34-16-0.291300.fasta,Len:9200,GC:41.9783
+36-84-0.163040.fasta,Len:9200,GC:42.0217
+4-53-0.284504.fasta,Len:9200,GC:42.163
+10-96-0.439620.fasta,Len:9200,GC:42.1957
+20-97-0.363647.fasta,Len:9200,GC:42.2283
+80-9-0.037285.fasta,Len:9200,GC:42.0543
+        Finished processing input sequences, elapsed time: 0 seconds
+
+                 compressed suffix graph construction elapsed time: 0 seconds
+
+                 MUM anchor search elapsed time: 0 seconds
+
+        Finished recursive MUM search, elapsed time: 0 seconds
+
+        Finished filtering spurious matches, elapsed time: 0 seconds
+
+        LCBs created, elapsed time: 0 seconds
+
+        Output files updated, elapsed time: 2 seconds
+
+        See log file for further details. Total processing time: 2 seconds 
+

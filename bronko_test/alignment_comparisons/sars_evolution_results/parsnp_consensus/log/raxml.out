@@ -1,0 +1,827 @@
+Warning, you specified a working directory via "-w"
+Keep in mind that RAxML only accepts absolute path names, not relative ones!
+
+RAxML can't, parse the alignment file as phylip file 
+it will now try to parse it as FASTA file
+
+
+
+IMPORTANT WARNING: Sequences 941-565-0.109830.fasta and 1167-962-0.110990.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 941-565-0.109830.fasta and 707-7325-0.120203.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 941-565-0.109830.fasta and 944-6220-0.113651.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 941-565-0.109830.fasta and 1255-7082-0.106031.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 941-565-0.109830.fasta and 483-1336-0.142266.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 941-565-0.109830.fasta and 843-8466-0.126061.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 941-565-0.109830.fasta and 1578-5663-0.086951.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 941-565-0.109830.fasta and 1583-2203-0.093116.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 941-565-0.109830.fasta and 1397-793-0.103471.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 941-565-0.109830.fasta and 1504-240-0.091670.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 941-565-0.109830.fasta and 959-5503-0.109298.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 941-565-0.109830.fasta and 1735-8837-0.075900.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 941-565-0.109830.fasta and 641-737-0.136024.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 941-565-0.109830.fasta and 487-7067-0.137145.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 941-565-0.109830.fasta and 1280-3558-0.108520.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 941-565-0.109830.fasta and 979-430-0.113077.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 941-565-0.109830.fasta and 96-3723-0.184796.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 941-565-0.109830.fasta and 1259-2239-0.113884.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1348-9155-0.107162.fasta and 2179-5940-0.041073.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1348-9155-0.107162.fasta and 2079-2937-0.068457.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1348-9155-0.107162.fasta and 1929-51-0.076950.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1348-9155-0.107162.fasta and 1874-2972-0.071183.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1348-9155-0.107162.fasta and 2070-1436-0.066415.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1348-9155-0.107162.fasta and 385-5881-0.141656.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1348-9155-0.107162.fasta and 2185-516-0.035892.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1348-9155-0.107162.fasta and 1317-2100-0.093073.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1348-9155-0.107162.fasta and 1393-466-0.090283.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1348-9155-0.107162.fasta and 1999-33-0.100968.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1348-9155-0.107162.fasta and 1595-2319-0.095968.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1348-9155-0.107162.fasta and 648-950-0.127158.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1348-9155-0.107162.fasta and 762-976-0.124246.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1348-9155-0.107162.fasta and 1786-8720-0.088003.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1348-9155-0.107162.fasta and 1057-2050-0.121383.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1348-9155-0.107162.fasta and 700-3370-0.137698.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1348-9155-0.107162.fasta and 1094-1608-0.109349.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1348-9155-0.107162.fasta and 2096-3406-0.054791.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1348-9155-0.107162.fasta and 2153-4819-0.044058.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1348-9155-0.107162.fasta and 2195-356-0.032152.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1348-9155-0.107162.fasta and 1994-8232-0.070494.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1348-9155-0.107162.fasta and 2129-9197-0.054639.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1348-9155-0.107162.fasta and 349-7561-0.143661.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1348-9155-0.107162.fasta and 654-9147-0.147749.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1348-9155-0.107162.fasta and 1330-8836-0.098664.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1348-9155-0.107162.fasta and 770-6381-0.129148.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1348-9155-0.107162.fasta and 1439-5457-0.096170.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1348-9155-0.107162.fasta and 1108-6787-0.124635.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1348-9155-0.107162.fasta and 1096-5577-0.103127.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1348-9155-0.107162.fasta and 2091-4769-0.058793.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1348-9155-0.107162.fasta and 1282-6182-0.101279.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 891-467-0.132008.fasta and 463-1596-0.134555.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1997-249-0.074381.fasta and 1722-3596-0.094760.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1997-249-0.074381.fasta and 690-2550-0.135574.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1997-249-0.074381.fasta and 1894-932-0.072337.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1997-249-0.074381.fasta and 1616-1813-0.088562.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1997-249-0.074381.fasta and 1571-1278-0.087412.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1997-249-0.074381.fasta and 2033-6484-0.087639.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1997-249-0.074381.fasta and 1936-6226-0.086864.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1997-249-0.074381.fasta and 522-9151-0.130083.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1997-249-0.074381.fasta and 914-9575-0.113131.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1997-249-0.074381.fasta and 1857-111-0.094438.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1997-249-0.074381.fasta and 1272-5776-0.102128.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1565-2261-0.087986.fasta and 928-5581-0.113517.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1565-2261-0.087986.fasta and 1763-1101-0.092203.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1565-2261-0.087986.fasta and 361-7877-0.176812.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1565-2261-0.087986.fasta and 1745-63-0.082769.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1565-2261-0.087986.fasta and 626-952-0.128458.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1565-2261-0.087986.fasta and 1507-380-0.086553.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1565-2261-0.087986.fasta and 2038-10-0.078370.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1565-2261-0.087986.fasta and 726-4731-0.118448.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1565-2261-0.087986.fasta and 1816-445-0.086718.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1565-2261-0.087986.fasta and 1420-2368-0.096223.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1565-2261-0.087986.fasta and 2072-3-0.066634.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1565-2261-0.087986.fasta and 1531-633-0.108000.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1565-2261-0.087986.fasta and 804-8758-0.117930.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1565-2261-0.087986.fasta and 1626-3448-0.089205.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1565-2261-0.087986.fasta and 676-6634-0.138976.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1565-2261-0.087986.fasta and 733-3924-0.128434.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1565-2261-0.087986.fasta and 661-8861-0.136214.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1565-2261-0.087986.fasta and 1380-3674-0.112141.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1565-2261-0.087986.fasta and 517-6048-0.139684.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1565-2261-0.087986.fasta and 796-573-0.117259.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1565-2261-0.087986.fasta and 1683-2814-0.091002.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1565-2261-0.087986.fasta and 758-1209-0.126513.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1565-2261-0.087986.fasta and 1702-2107-0.088731.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1565-2261-0.087986.fasta and 1207-2443-0.103852.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1565-2261-0.087986.fasta and 1862-162-0.081004.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1565-2261-0.087986.fasta and 781-3218-0.128665.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1565-2261-0.087986.fasta and 687-1150-0.121593.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1565-2261-0.087986.fasta and 1310-528-0.101914.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 345-49-0.153309.fasta and 157-3040-0.173201.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 345-49-0.153309.fasta and 229-7387-0.162579.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 135-3432-0.177679.fasta and 1106-1058-0.126441.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 23-4848-0.240759.fasta and 84-3693-0.187239.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 460-3567-0.144011.fasta and 542-1180-0.138881.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1638-5805-0.087186.fasta and 1757-1675-0.078395.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1638-5805-0.087186.fasta and 1844-169-0.072437.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1638-5805-0.087186.fasta and 1468-394-0.086638.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1638-5805-0.087186.fasta and 357-4497-0.149777.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1638-5805-0.087186.fasta and 1022-7910-0.124952.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1638-5805-0.087186.fasta and 926-1547-0.125724.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 906-8826-0.114949.fasta and 865-2070-0.124918.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 906-8826-0.114949.fasta and 887-7500-0.134104.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 396-4097-0.160117.fasta and 471-8859-0.139899.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1284-3453-0.102658.fasta and 1685-261-0.092839.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1284-3453-0.102658.fasta and 1131-547-0.114475.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1284-3453-0.102658.fasta and 729-3573-0.123309.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 833-766-0.141370.fasta and 1390-1182-0.113314.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1196-569-0.109762.fasta and 197-3738-0.162092.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 28-3201-0.240991.fasta and 8-1685-0.245467.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 767-5857-0.128956.fasta and 1708-461-0.086237.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 767-5857-0.128956.fasta and 1300-1264-0.091930.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 767-5857-0.128956.fasta and 1265-7046-0.118915.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 767-5857-0.128956.fasta and 1226-2624-0.107281.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 767-5857-0.128956.fasta and 1049-8208-0.111373.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 767-5857-0.128956.fasta and 1449-790-0.093140.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 767-5857-0.128956.fasta and 1487-239-0.103639.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 767-5857-0.128956.fasta and 993-2379-0.141732.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 767-5857-0.128956.fasta and 1586-9894-0.091767.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 767-5857-0.128956.fasta and 749-1091-0.134642.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 767-5857-0.128956.fasta and 1416-9856-0.087780.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 767-5857-0.128956.fasta and 1640-3478-0.095560.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 767-5857-0.128956.fasta and 1062-2354-0.117560.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 767-5857-0.128956.fasta and 1548-3006-0.095750.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 767-5857-0.128956.fasta and 1090-3570-0.112577.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 999-3536-0.117381.fasta and 646-1287-0.126452.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1314-7158-0.113732.fasta and 1005-6-0.111093.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1314-7158-0.113732.fasta and 818-97-0.118878.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1314-7158-0.113732.fasta and 1067-6768-0.116656.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 565-5197-0.131444.fasta and 1191-722-0.136671.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 919-3338-0.117785.fasta and 286-3036-0.159561.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 919-3338-0.117785.fasta and 1738-41-0.089304.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 919-3338-0.117785.fasta and 1411-4639-0.110231.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 919-3338-0.117785.fasta and 1383-301-0.120632.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 425-8066-0.168329.fasta and 1902-50-0.076828.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 425-8066-0.168329.fasta and 1667-4343-0.097883.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 145-4043-0.177413.fasta and 258-266-0.154249.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 682-6076-0.124199.fasta and 1018-1257-0.109866.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 682-6076-0.124199.fasta and 490-2821-0.133295.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 682-6076-0.124199.fasta and 241-9558-0.182145.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 682-6076-0.124199.fasta and 1492-1715-0.086203.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1521-72-0.098443.fasta and 1526-123-0.096773.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1521-72-0.098443.fasta and 1755-4972-0.081716.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1521-72-0.098443.fasta and 1155-2475-0.109870.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1521-72-0.098443.fasta and 840-769-0.112757.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1521-72-0.098443.fasta and 1435-5104-0.100572.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1521-72-0.098443.fasta and 1099-9605-0.108772.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 63-883-0.214841.fasta and 34-4575-0.228624.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 503-7251-0.149779.fasta and 479-7131-0.136949.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 794-4117-0.131743.fasta and 889-3900-0.109850.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 794-4117-0.131743.fasta and 1367-8497-0.103366.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 560-5948-0.135073.fasta and 903-4365-0.125545.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 560-5948-0.135073.fasta and 786-2932-0.124891.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1539-867-0.097263.fasta and 981-4867-0.111129.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 50-661-0.219629.fasta and 103-7787-0.207010.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 195-4138-0.173305.fasta and 78-6271-0.191502.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 195-4138-0.173305.fasta and 298-152-0.157300.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1712-875-0.083860.fasta and 1045-8560-0.106177.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1712-875-0.083860.fasta and 273-748-0.159638.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1712-875-0.083860.fasta and 205-4955-0.161523.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1712-875-0.083860.fasta and 1114-453-0.116355.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1712-875-0.083860.fasta and 1126-3703-0.102240.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1712-875-0.083860.fasta and 1386-7913-0.098710.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1110-2464-0.113581.fasta and 1797-215-0.082853.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1110-2464-0.113581.fasta and 371-2086-0.145488.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1110-2464-0.113581.fasta and 254-4470-0.160258.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1110-2464-0.113581.fasta and 114-8685-0.191462.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1110-2464-0.113581.fasta and 587-9174-0.144834.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1110-2464-0.113581.fasta and 1921-2343-0.072007.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1110-2464-0.113581.fasta and 846-483-0.117237.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1110-2464-0.113581.fasta and 2121-4459-0.064140.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1110-2464-0.113581.fasta and 1690-6347-0.082253.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1110-2464-0.113581.fasta and 493-2731-0.143231.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1110-2464-0.113581.fasta and 1839-6616-0.071935.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1110-2464-0.113581.fasta and 1822-319-0.075796.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 946-39-0.109462.fasta and 849-7006-0.113334.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 946-39-0.109462.fasta and 1082-674-0.108537.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1427-5102-0.103391.fasta and 1218-1812-0.099859.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1427-5102-0.103391.fasta and 1444-1508-0.090271.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1512-6150-0.110121.fasta and 1224-7823-0.108075.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1121-1649-0.103801.fasta and 499-1187-0.148721.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 567-539-0.139854.fasta and 718-1764-0.126225.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 624-6077-0.163222.fasta and 650-4573-0.123718.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1209-3484-0.106632.fasta and 1040-970-0.114051.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 755-6609-0.123060.fasta and 1848-5370-0.093392.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 263-2060-0.167351.fasta and 1277-707-0.137718.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1933-3238-0.067444.fasta and 1909-8911-0.082987.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 41-471-0.218785.fasta and 14-7213-0.246389.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 41-471-0.218785.fasta and 31-2705-0.228264.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1148-681-0.109306.fasta and 808-1117-0.142394.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 403-3021-0.147967.fasta and 617-723-0.129367.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1455-3908-0.091470.fasta and 1092-6099-0.121512.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1455-3908-0.091470.fasta and 1813-9087-0.078854.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 89-9100-0.189183.fasta and 335-3063-0.188735.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 455-4992-0.145565.fasta and 580-2398-0.132744.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1623-3824-0.099101.fasta and 1890-241-0.084194.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1674-231-0.095453.fasta and 1174-9602-0.106911.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 61-1983-0.214267.fasta and 120-2163-0.188661.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1991-5165-0.086513.fasta and 319-2472-0.177487.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 444-2362-0.144459.fasta and 481-9050-0.153455.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 208-6591-0.176254.fasta and 212-3391-0.190811.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1103-424-0.106836.fasta and 878-1325-0.129263.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 693-280-0.128498.fasta and 949-4352-0.117339.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 314-7765-0.149513.fasta and 446-9369-0.138305.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 519-3427-0.154623.fasta and 252-340-0.183732.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1287-6653-0.095228.fasta and 2065-4633-0.068197.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1287-6653-0.095228.fasta and 634-2216-0.143387.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1287-6653-0.095228.fasta and 801-2967-0.115346.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 1287-6653-0.095228.fasta and 1161-7303-0.101514.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 595-7771-0.128292.fasta and 638-2612-0.143059.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 595-7771-0.128292.fasta and 433-4969-0.137484.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 86-9356-0.186004.fasta and 53-9620-0.209780.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 0-6474-0.280390.fasta and 5-8929-0.252810.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 18-1917-0.235976.fasta and 2-431-0.267960.fasta are exactly identical
+
+
+IMPORTANT WARNING: Sequences 25-6537-0.227496.fasta and 162-9742-0.179283.fasta are exactly identical
+
+IMPORTANT WARNING
+Found 214 sequences that are exactly identical to other sequences in the alignment.
+Normally they should be excluded from the analysis.
+
+Just in case you might need it, an alignment file with 
+sequence duplicates removed is printed to file ../../../bronko_test/sars_evolution_results/parsnp_consensus/parsnp.snps.mblocks.reduced
+
+
+Using BFGS method to optimize GTR rate parameters, to disable this specify "--no-bfgs" 
+
+
+This is the RAxML Master Pthread
+
+This is RAxML Worker Pthread Number: 1
+
+This is RAxML Worker Pthread Number: 2
+
+This is RAxML Worker Pthread Number: 3
+
+This is RAxML Worker Pthread Number: 4
+
+This is RAxML Worker Pthread Number: 5
+
+This is RAxML Worker Pthread Number: 6
+
+This is RAxML Worker Pthread Number: 7
+
+This is RAxML Worker Pthread Number: 8
+
+This is RAxML Worker Pthread Number: 9
+
+This is RAxML Worker Pthread Number: 10
+
+This is RAxML Worker Pthread Number: 11
+
+This is RAxML Worker Pthread Number: 12
+
+This is RAxML Worker Pthread Number: 13
+
+This is RAxML Worker Pthread Number: 14
+
+This is RAxML Worker Pthread Number: 15
+
+This is RAxML Worker Pthread Number: 16
+
+This is RAxML Worker Pthread Number: 17
+
+This is RAxML Worker Pthread Number: 18
+
+This is RAxML Worker Pthread Number: 19
+
+This is RAxML Worker Pthread Number: 20
+
+This is RAxML Worker Pthread Number: 21
+
+This is RAxML Worker Pthread Number: 22
+
+This is RAxML Worker Pthread Number: 23
+
+This is RAxML Worker Pthread Number: 24
+
+This is RAxML Worker Pthread Number: 25
+
+This is RAxML Worker Pthread Number: 26
+
+This is RAxML Worker Pthread Number: 27
+
+This is RAxML Worker Pthread Number: 28
+
+This is RAxML Worker Pthread Number: 29
+
+This is RAxML Worker Pthread Number: 30
+
+This is RAxML Worker Pthread Number: 31
+
+
+This is RAxML version 8.2.12 released by Alexandros Stamatakis on May 2018.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Kassian Kobert    (HITS)
+David Dao         (KIT and HITS)
+Sarah Lutteropp   (KIT and HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+Charlie Taylor    (UF)
+
+
+Alignment has 491 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 0.00%
+
+RAxML rapid hill-climbing mode
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+Executing 1 inferences on the original alignment using 1 distinct randomized MP trees
+
+All free model parameters will be estimated by RAxML
+ML estimate of 25 per site rate categories
+
+Likelihood of final tree will be evaluated and optimized under GAMMA
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 491
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+raxmlHPC-PTHREADS -m GTRCAT -p 12345 -T 32 -s ../../../bronko_test/sars_evolution_results/parsnp_consensus/parsnp.snps.mblocks -w /tmp/tmpcjcidwql -n OUTPUT 
+
+
+Partition: 0 with name: No Name Provided
+Base frequencies: 0.165 0.301 0.151 0.383 
+
+Inference[0]: Time 18.486940 CAT-based likelihood -4805.589457, best rearrangement setting 5
+
+
+Conducting final model optimizations on all 1 trees under GAMMA-based models ....
+
+
+WARNING the alpha parameter with a value of 12.910112 estimated by RAxML for partition number 0 with the name "No Name Provided"
+is larger than 10.000000. You should do a model test and confirm that you actually need to incorporate a model of rate heterogeneity!
+You can run inferences with a plain substitution model (without rate heterogeneity) by specifyng the CAT model and the "-V" option!
+
+
+WARNING the alpha parameter with a value of 29.785014 estimated by RAxML for partition number 0 with the name "No Name Provided"
+is larger than 10.000000. You should do a model test and confirm that you actually need to incorporate a model of rate heterogeneity!
+You can run inferences with a plain substitution model (without rate heterogeneity) by specifyng the CAT model and the "-V" option!
+
+
+WARNING the alpha parameter with a value of 68.731592 estimated by RAxML for partition number 0 with the name "No Name Provided"
+is larger than 10.000000. You should do a model test and confirm that you actually need to incorporate a model of rate heterogeneity!
+You can run inferences with a plain substitution model (without rate heterogeneity) by specifyng the CAT model and the "-V" option!
+
+
+WARNING the alpha parameter with a value of 149.429066 estimated by RAxML for partition number 0 with the name "No Name Provided"
+is larger than 10.000000. You should do a model test and confirm that you actually need to incorporate a model of rate heterogeneity!
+You can run inferences with a plain substitution model (without rate heterogeneity) by specifyng the CAT model and the "-V" option!
+
+
+WARNING the alpha parameter with a value of 335.743034 estimated by RAxML for partition number 0 with the name "No Name Provided"
+is larger than 10.000000. You should do a model test and confirm that you actually need to incorporate a model of rate heterogeneity!
+You can run inferences with a plain substitution model (without rate heterogeneity) by specifyng the CAT model and the "-V" option!
+
+
+WARNING the alpha parameter with a value of 765.890197 estimated by RAxML for partition number 0 with the name "No Name Provided"
+is larger than 10.000000. You should do a model test and confirm that you actually need to incorporate a model of rate heterogeneity!
+You can run inferences with a plain substitution model (without rate heterogeneity) by specifyng the CAT model and the "-V" option!
+
+
+WARNING the alpha parameter with a value of 1000.000000 estimated by RAxML for partition number 0 with the name "No Name Provided"
+is larger than 10.000000. You should do a model test and confirm that you actually need to incorporate a model of rate heterogeneity!
+You can run inferences with a plain substitution model (without rate heterogeneity) by specifyng the CAT model and the "-V" option!
+
+Inference[0] final GAMMA-based Likelihood: -4816.430425 tree written to file /tmp/tmpcjcidwql/RAxML_result.OUTPUT
+
+
+Starting final GAMMA-based thorough Optimization on tree 0 likelihood -4816.430425 .... 
+
+Final GAMMA-based Score of best tree -4816.430293
+
+Program execution info written to /tmp/tmpcjcidwql/RAxML_info.OUTPUT
+Best-scoring ML tree written to: /tmp/tmpcjcidwql/RAxML_bestTree.OUTPUT
+
+Overall execution time: 30.975979 secs or 0.008604 hours or 0.000359 days
+

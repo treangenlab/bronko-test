@@ -1,0 +1,21 @@
+##fileformat=VCFv4.5
+##source=bronko-v0.0.3
+##reference=file://generated_reads/50-64-0.389780.fastq
+##contig=<ID=Ancestral,length=9200>
+##INFO=<ID=DP,Number=1,Type=Integer,Description="Total Depth">
+##INFO=<ID=AF,Number=1,Type=Float,Description="Allele Frequency">
+##INFO=<ID=DP4,Number=4,Type=Integer,Description="Fwd_ref,Rev_ref,Fwd_alt,Rev_alt">
+##INFO=<ID=SOR,Number=4,Type=Float,Description="SOR">
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO
+Ancestral	437	.	G	C	.	PASS	DP=12178;AF=0.994;DP4=17,11,6059,6051;SOR=0.369
+Ancestral	1404	.	G	A	.	PASS	DP=12074;AF=0.995;DP4=12,14,6035,5979;SOR=0.571
+Ancestral	2139	.	C	T	.	PASS	DP=12001;AF=0.993;DP4=17,11,5887,6028;SOR=0.401
+Ancestral	3382	.	G	C	.	PASS	DP=12223;AF=0.995;DP4=12,0,6044,6120;SOR=0.031
+Ancestral	5246	.	G	A	.	PASS	DP=12336;AF=0.996;DP4=13,11,6173,6109;SOR=0.560
+Ancestral	6528	.	G	A	.	PASS	DP=12205;AF=0.993;DP4=11,25,5996,6125;SOR=0.201
+Ancestral	6551	.	T	C	.	PASS	DP=12296;AF=0.997;DP4=0,16,6034,6220;SOR=0.004
+Ancestral	6804	.	A	G	.	PASS	DP=12102;AF=0.996;DP4=17,0,6060,5999;SOR=0.003
+Ancestral	8078	.	A	G	.	PASS	DP=12229;AF=0.993;DP4=10,18,6106,6034;SOR=0.307
+Ancestral	8346	.	C	T	.	PASS	DP=12401;AF=0.996;DP4=0,10,6131,6224;SOR=0.008
+Ancestral	8725	.	C	T	.	PASS	DP=12377;AF=0.995;DP4=12,10,6169,6141;SOR=0.544
+Ancestral	8973	.	A	G	.	PASS	DP=11827;AF=0.995;DP4=10,11,5938,5831;SOR=0.630
