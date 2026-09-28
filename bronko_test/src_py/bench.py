@@ -22,6 +22,10 @@ from pathlib import Path
 import psutil
 import threading
 
+# bronko is run through `cargo run`, which resolves Cargo.toml from the *shell's* cwd -- point it
+# at the crate explicitly so the benchmark builds the same binary no matter where it is launched.
+BRONKO_MANIFEST = os.environ.get("BRONKO_MANIFEST", "/home/Users/rdd4/bronko/Cargo.toml")
+
 def load_tsv(file_path):
     """
     Load the TSV file and return the full DataFrame.
@@ -378,6 +382,11 @@ def run_cmd_mem(cmd, label):
     end = time.time()
     total_time = end-start
 
+    # without this a crashed caller looks like a successful one: the run reports ✅, the pipeline
+    # carries on, and the downstream tables get rebuilt from whatever files are still on disk
+    if process.returncode != 0:
+        raise RuntimeError(f"{label} failed with exit code {process.returncode}: {' '.join(cmd)}")
+
     print(f"✅  {label} completed in {end - start:.2f} seconds | Peak memory: {peak_mem:.2f} MB")
     return total_time, peak_mem
     
@@ -634,8 +643,13 @@ def parse_vcf_variants(vcf_path, af_cutoff=0.01, edge_exclude_k=0, segment_lengt
     return variants_minor, variants_major
 
 
-def parse_ivar_variants(tsv_path, af_cutoff=0.01, edge_exclude_k=0, segment_lengths=None):
-    """Parse an iVar TSV file into (minor, major) variant sets."""
+def parse_ivar_variants(tsv_path, af_cutoff=0.01, edge_exclude_k=0, segment_lengths=None,
+                        require_pass=True):
+    """Parse an iVar TSV file into (minor, major) variant sets.
+
+    With require_pass=True (default) only rows iVar itself flagged PASS=TRUE are
+    kept, so iVar is compared on its filtered output like the other callers.
+    """
     variants_minor = set()
     variants_major = set()
 
@@ -649,6 +663,9 @@ def parse_ivar_variants(tsv_path, af_cutoff=0.01, edge_exclude_k=0, segment_leng
                 alt = row["ALT"]
                 af = float(row["ALT_FREQ"])
             except (KeyError, ValueError, TypeError):
+                continue
+
+            if require_pass and str(row.get("PASS", "")).strip().upper() != "TRUE":
                 continue
 
             if af < af_cutoff:
@@ -790,16 +807,19 @@ def print_stats(pred_variants, truth_variants, title='Minor Variant Comparison S
 
 def compare_variant_sets(bronko_vcf, lofreq_vcf, ivar_tsv,
                          af_cutoff=0.01,
-                         edge_exclude_k=0):
+                         edge_exclude_k=0,
+                         ivar_require_pass=True):
     """
     Compares predicted VCF against ground truth (LoFreq) VCF.
     Filters predicted variants near edges (if segment lengths available).
+    ivar_require_pass keeps only iVar rows with PASS=TRUE (its own filter).
     """
     segment_lengths = get_segment_lengths(VCF(bronko_vcf))
 
     bronko_minor, bronko_major     = parse_vcf_variants(bronko_vcf, af_cutoff, edge_exclude_k, segment_lengths)
     lofreq_minor, lofreq_major = parse_vcf_variants(lofreq_vcf, af_cutoff, edge_exclude_k, segment_lengths)
-    ivar_minor, ivar_major     = parse_ivar_variants(ivar_tsv, af_cutoff, edge_exclude_k, segment_lengths)
+    ivar_minor, ivar_major     = parse_ivar_variants(ivar_tsv, af_cutoff, edge_exclude_k, segment_lengths,
+                                                     require_pass=ivar_require_pass)
 
     # Shared and unique variants (minor only, could parameterize)
     shared_all     = bronko_minor & lofreq_minor & ivar_minor
@@ -877,7 +897,7 @@ def clean_sample_id(filename):
             return base[:-len(ext)]
     return os.path.splitext(base)[0]
     
-def bench(fastq_files, r1s, r2s, ref_fasta, output_folder, k=19, min_af=0.03, re_run=True, threads=10):
+def bench(fastq_files, r1s, r2s, ref_fasta, output_folder, k=19, min_af=0.03, re_run=True, threads=10, ivar_require_pass=True):
         
     ## collect all the samples
     all_samples = []
@@ -936,7 +956,7 @@ def bench(fastq_files, r1s, r2s, ref_fasta, output_folder, k=19, min_af=0.03, re
             
             bench_output_folder = f"{output_folder}/{sample_id}_k{k}"
 
-            result, time_info, mem_info, minor_info, major_info = bench_individual(r1, ref_fasta, bench_output_folder, r1_file=r1 if r2 else None, r2_file=r2, k=k, min_af=min_af, re_run_bench=re_run, threads=threads)
+            result, time_info, mem_info, minor_info, major_info = bench_individual(r1, ref_fasta, bench_output_folder, r1_file=r1 if r2 else None, r2_file=r2, k=k, min_af=min_af, re_run_bench=re_run, threads=threads, ivar_require_pass=ivar_require_pass)
 
             # Extract stats
             minor_lofreq = result["minor"]["bronko_vs_lofreq"]
@@ -1019,7 +1039,7 @@ def bench(fastq_files, r1s, r2s, ref_fasta, output_folder, k=19, min_af=0.03, re
          
         
             
-def bench_individual(fastq_file, ref_fasta, output_folder, r1_file=None, r2_file=None, k=15, min_af=0.01, re_run_bench=False, threads=30):
+def bench_individual(fastq_file, ref_fasta, output_folder, r1_file=None, r2_file=None, k=15, min_af=0.01, re_run_bench=False, threads=30, ivar_require_pass=True):
     
     ## Bowtie2 based benchmark
     print('RUNNING BOWTIE2 BENCHMARK')
@@ -1098,9 +1118,8 @@ def bench_individual(fastq_file, ref_fasta, output_folder, r1_file=None, r2_file
     # screen(fastq_file, f"{output_folder}/iv_kmer.pkl", k, output_folder, min_count)
     if r1_file and r2_file:
         bronko_cmd = [
-            "cargo",
-            "run",
-            "--",
+            "cargo", "run", "--release", "--manifest-path", BRONKO_MANIFEST, "--",
+            # "bronko",
             "call",
             "-g", ref_fasta,
             "-1", r1_file,
@@ -1110,13 +1129,15 @@ def bench_individual(fastq_file, ref_fasta, output_folder, r1_file=None, r2_file
             "-k", str(k),
             "--pileup",
             "--min-af", str(min_af),
-            "--keep-kmer-info"
+            "--keep-kmer-info",
+            "--strand-odds", str(8)
         ]
         bronko_time, bronko_mem = run_cmd_mem(bronko_cmd, "Running bronko")
     else:
         bronko_cmd = [
-            "bronko",
-            "call", 
+            "cargo", "run", "--release", "--manifest-path", BRONKO_MANIFEST, "--",
+            # "bronko",
+            "call",
             "-g", ref_fasta,
             "-r", fastq_file,
             "--threads", str(threads),
@@ -1124,7 +1145,8 @@ def bench_individual(fastq_file, ref_fasta, output_folder, r1_file=None, r2_file
             "-k", str(k),
             "--pileup",
             "--min-af", str(min_af),
-            "--keep-kmer-info"
+            "--keep-kmer-info",
+            "--strand-odds", str(8)
         ]
         bronko_time, bronko_mem = run_cmd_mem(bronko_cmd, "Running bronko")
     iv_end_time = time.time()
@@ -1143,7 +1165,7 @@ def bench_individual(fastq_file, ref_fasta, output_folder, r1_file=None, r2_file
     # print(f'Precision: {overlap}/{overlap+iv}={round(overlap/(overlap+iv),2)}')
     # print(f'Accuracy: {overlap}/{overlap+iv+bt_iv}={round(overlap/(overlap+iv+bt_iv),2)}')
     
-    result_comparison = compare_variant_sets(f'{output_folder}/{base_name}.vcf', vcf_lofreq, ivar_out, af_cutoff=min_af, edge_exclude_k=k)
+    result_comparison = compare_variant_sets(f'{output_folder}/{base_name}.vcf', vcf_lofreq, ivar_out, af_cutoff=min_af, edge_exclude_k=k, ivar_require_pass=ivar_require_pass)
     
     minor_rows = build_variant_table_rows(
         bronko_counts_file=f"{output_folder}/{base_name}.tsv",
