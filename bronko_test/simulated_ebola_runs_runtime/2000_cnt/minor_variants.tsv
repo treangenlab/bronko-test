@@ -1,0 +1,16 @@
+Sample	reference	index	ref	alt	tools	A_bt2	C_bt2	G_bt2	T_bt2	a_bt2	c_bt2	g_bt2	t_bt2	A_bronko	C_bronko	G_bronko	T_bronko	a_bronko	c_bronko	g_bronko	t_bronko
+reads_1	ebola	166	A	G	bronko,ivar,lofreq	742	0	462	0	596	0	374	0	709	0	441	0	572	0	358	0
+reads_1	ebola	2107	C	A	ivar	0	1133	0	0	8	1322	0	0	0	1026	0	0	8	1161	0	0
+reads_1	ebola	2568	T	A	ivar	8	0	0	1414	0	0	0	1408	6	0	0	1244	0	0	0	1245
+reads_1	ebola	5458	A	T	ivar	763	0	0	0	1028	0	0	8	728	0	0	0	986	0	0	8
+reads_1	ebola	5734	T	G	ivar	0	0	0	1057	0	0	7	1250	0	0	0	956	0	0	7	1087
+reads_1	ebola	7290	C	A	ivar	0	1324	1	0	8	1397	0	0	0	1183	0	0	7	1235	0	0
+reads_1	ebola	7501	A	C	ivar	1053	10	0	0	836	0	0	0	1015	10	0	0	815	0	0	0
+reads_1	ebola	8596	T	G	ivar	0	0	0	838	0	0	7	1101	0	0	0	796	0	0	7	1062
+reads_1	ebola	10596	T	A	ivar	9	0	0	1039	0	0	2	816	9	0	0	1010	0	0	0	795
+reads_1	ebola	13197	G	C	ivar	0	0	562	1	0	8	539	0	0	0	396	0	0	6	401	0
+reads_1	ebola	13433	T	C	bronko,ivar,lofreq	2	302	2	497	1	382	1	634	0	284	0	475	0	366	0	607
+reads_1	ebola	13977	C	G	ivar	0	1261	10	0	0	1303	0	0	0	1090	10	0	0	1131	0	0
+reads_1	ebola	15557	T	G	ivar	0	0	0	763	0	0	8	1028	0	0	0	728	0	0	8	986
+reads_1	ebola	17006	T	C	bronko,ivar,lofreq	1	496	1	869	0	433	0	757	0	426	0	744	0	388	0	668
+reads_1	ebola	17651	A	T	ivar	1193	0	0	0	1161	0	0	7	1061	0	0	0	1020	0	0	7

@@ -1,0 +1,4 @@
+Sample	reference	index	ref	alt	tools	A_bt2	C_bt2	G_bt2	T_bt2	a_bt2	c_bt2	g_bt2	t_bt2	A_bronko	C_bronko	G_bronko	T_bronko	a_bronko	c_bronko	g_bronko	t_bronko
+reads_1	ebola	166	A	G	bronko,ivar,lofreq	71490	74	47853	42	57889	39	38781	52	68970	72	46232	42	55607	38	37325	51
+reads_1	ebola	13433	T	C	bronko,ivar,lofreq	59	32554	44	48658	45	41963	60	62776	54	31258	39	46695	42	40373	57	60367
+reads_1	ebola	17006	T	C	bronko,ivar,lofreq	94	57015	43	85183	40	49854	81	74409	88	48820	38	72964	35	44242	71	65904
