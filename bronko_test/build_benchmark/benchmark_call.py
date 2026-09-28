@@ -12,7 +12,7 @@ SIZES = [
 ]
 
 ## NEED TO CHANGE THE 1000X depending on depth
-depth = 30000
+depth = 1000
 
 DB_DIR = Path("databases/random_genomes")
 READ_DIR = Path(f"data/random_genome_seq_data/{depth}x") 

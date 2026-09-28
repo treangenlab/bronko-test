@@ -8,7 +8,7 @@ from pathlib import Path
 SIZES = [1, 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70, 75, 80, 85, 90, 95, 100]
 
 ## NEED TO CHANGE THE 1000X depending on depth
-depth = 30000
+depth = 10000
 
 DB_DIR = Path("databases/sars")
 READ_DIR = Path(f"data/sars_genome_seq_data/") 
